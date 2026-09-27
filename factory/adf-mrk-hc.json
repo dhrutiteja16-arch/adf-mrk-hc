@@ -1,0 +1,15 @@
+{
+	"name": "adf-mrk-hc",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4084380d-6593-43a2-b3c4-673dac912b51",
+		"tenantId": "b3e85e0d-a5ee-4848-bc61-5b23012e5cfa"
+	}
+}

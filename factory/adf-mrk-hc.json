@@ -1,6 +1,9 @@
 {
 	"name": "adf-mrk-hc",
 	"properties": {
+		"globalConfigurations": {
+			"PolicyValidationEnabled": "true"
+		},
 		"trustModeClaimForMi": {
 			"value": "Disabled",
 			"editable": true
